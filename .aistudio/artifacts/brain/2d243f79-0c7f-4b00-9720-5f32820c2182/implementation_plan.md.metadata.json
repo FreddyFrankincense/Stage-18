@@ -1,0 +1,6 @@
+{
+  "summary": "Architectural and technical implementation plan for the Rear Window (1954) 3D Blender Workflow Workbench & Interactive Stage 18 Courtyard Simulator. Covers the complete Blender 4.x Cycles production pipeline (fSpy camera matching, Paramount Stage 18 dimensional blockout with excavated courtyard, modular Linked Collections for 31 apartments, Portal & studio lighting rigs, and Technicolor color management) paired with an interactive Three.js 3D courtyard blockout, sightline/lens simulator, apartment asset tracker, and custom Blender Python (bpy) script generator.",
+  "updatedAt": "2026-11-04T08:41:14.743009850Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Stage 18: Rear Window (1954) Blender 3D Workbench",
+  "description": "Interactive 3D Paramount Stage 18 courtyard massing simulator, sightline & telephoto lens calculator, 31-apartment asset tracker, and Blender Cycles Python (bpy) pipeline workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
